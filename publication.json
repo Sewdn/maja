@@ -1,0 +1,242 @@
+{
+  "template": "cover",
+  "srcPath": "cover.md",
+  "urlPath": "/2/",
+  "tocTemplate": "magazineTOC",
+  "pdfPage": "1",
+  "toc": [
+    {
+      "srcPath": "voorwoord.md",
+      "urlPath": "/2/voorwoord",
+      "tocIncl": true,
+      "tocText": "Voorwoord",
+      "pdfPage": "3"
+    },
+    {
+      "template": "section",
+      "srcPath": "interdisciplinair/intro.md",
+      "urlPath": "/2/interdisciplinair",
+      "pdfPage": "4",
+      "spotColor": "rgb(250,180,160)",
+      "toc": [
+        {
+          "srcPath": "interdisciplinair/boom.md",
+          "urlPath": "/2/interdisciplinair/boom",
+          "tocIncl": true,
+          "tocText": "Een grillige boom",
+          "pdfPage": "4"
+        }
+      ]
+    },
+    {
+      "template": "section",
+      "srcPath": "academiclifeasitis.md",
+      "urlPath": "/2/academiclifeasitis",
+      "tocIncl": true,
+      "tocText": "#academiclifeasitis",
+      "pdfPage": "7"
+    },
+    {
+      "template": "section",
+      "srcPath": "ik-was-35/intro.md",
+      "urlPath": "/2/ik-was-35",
+      "tocIncl": true,
+      "tocText": "Ik was 35 in ’79: Irina Veretennicoff",
+      "spotColor": "rgb(250,180,160)",
+      "pdfPage": "8",
+      "toc": [
+        {
+          "srcPath": "ik-was-35/Veretennicoff.md",
+          "urlPath": "/2/ik-was-35/Veretennicoff",
+          "ssClass": "person",
+          "spotColor": "rgb(250,180,160)",
+          "pdfPage": "8"
+        }
+      ]
+    },
+    {
+      "template": "section",
+      "srcPath": "mobiliteit/intro.md",
+      "urlPath": "/2/mobiliteit",
+      "tocIncl": true,
+      "tocText": "De JA gaat vreemd",
+      "spotColor": "orange",
+      "pdfPage": "12",
+      "toc": [
+        {
+          "srcPath": "mobiliteit/dwarskijker.md",
+          "urlPath": "/2/mobiliteit/dwarskijker",
+          "tocIncl": true,
+          "tocText": "Internationale (im)mobiliteit",
+          "pdfPage": "13"
+        },
+        {
+          "srcPath": "mobiliteit/transnationaal.md",
+          "urlPath": "/2/mobiliteit/transnationaal",
+          "tocIncl": true,
+          "tocText": "Transnationale academische mobiliteit",
+          "pdfPage": "15"
+        },
+        {
+          "srcPath": "mobiliteit/waarom.md",
+          "urlPath": "/2/mobiliteit/waarom",
+          "tocIncl": true,
+          "tocText": "Moeder, waarom reizen wij?",
+          "pdfPage": "17"
+        }
+      ]
+    },
+    {
+      "template": "section",
+      "srcPath": "inspiratie/intro.md",
+      "urlPath": "/2/inspiratie",
+      "tocIncl": true,
+      "tocText": "De inspiratie: Johan Braeckman",
+      "spotColor": "yellow",
+      "pdfPage": "22",
+      "toc": [
+        {
+          "srcPath": "inspiratie/Braeckman.md",
+          "urlPath": "/2/inspiratie/Braeckman",
+          "ssClass": "person",
+          "pdfPage": "22"
+        }
+      ]
+    },
+    {
+      "template": "section",
+      "urlPath": "/2/JA",
+      "spotColor": "green",
+      "toc": [
+        {
+          "srcPath": "JA/kroniek.md",
+          "urlPath": "/2/JA/kroniek",
+          "tocIncl": true,
+          "tocText": "Kroniek",
+          "spotColor": "green",
+          "pdfPage": "24"
+        },
+        {
+          "srcPath": "JA/standpunt.md",
+          "urlPath": "/2/JA/standpunt",
+          "tocIncl": true,
+          "tocText": "Standpunt: Interdisciplinair onderzoek in Vlaanderen",
+          "spotColor": "green",
+          "pdfPage": "27"
+        },
+        {
+          "srcPath": "JA/nieuwe-leden.md",
+          "urlPath": "/2/JA/nieuwe-leden",
+          "tocIncl": true,
+          "tocText": "Nieuwe Leden",
+          "spotColor": "green",
+          "pdfPage": "28"
+        },
+        {
+          "srcPath": "JA/voorzitterschap.md",
+          "urlPath": "/2/JA/voorzitterschap",
+          "tocIncl": true,
+          "tocText": "Het voorzitterschap van de JA",
+          "spotColor": "green",
+          "pdfPage": "30"
+        }
+      ]
+    },
+    {
+      "srcPath": "weersvoorspelling.md",
+      "urlPath": "/2/weersvoorspelling",
+      "tocIncl": true,
+      "tocText": "Falende weersvoorspelling klaart de chaos op",
+      "spotColor": "green",
+      "pdfPage": "31"
+    },
+    {
+      "srcPath": "generatiekloof.md",
+      "urlPath": "/2/generatiekloof",
+      "tocIncl": true,
+      "tocText": "De generatiekloof gedicht",
+      "spotColor": "purple",
+      "pdfPage": "34"
+    },
+    {
+      "srcPath": "faalweetjes/faalweetjes1.md",
+      "urlPath": "/2/faalweetjes/1",
+      "pdfPage": "37"
+    },
+    {
+      "srcPath": "OttoWarburg.md",
+      "urlPath": "/2/OttoWarburg",
+      "tocIncl": true,
+      "tocText": "De briefkaart van Otto Warburg",
+      "spotColor": "yellow",
+      "pdfPage": "38"
+    },
+    {
+      "template": "section",
+      "srcPath": "dwaalsporen/intro.md",
+      "urlPath": "/2/dwaalsporen",
+      "tocIncl": true,
+      "tocText": "Langs omwegen & dwaalsporen",
+      "spotColor": "purple",
+      "pdfPage": "40",
+      "toc": [
+        {
+          "srcPath": "dwaalsporen/Marijn.md", // Those `)` caused weird data-inject…
+          "urlPath": "/2/dwaalsporen/Marijn",
+          "tocIncl": true,
+          "tocText": "Marijn Vandenberghe",
+          "ssClass": "person",
+          "pdfPage": "40"
+        },
+        {
+          "srcPath": "dwaalsporen/Frederik.md",
+          "urlPath": "/2/dwaalsporen/Frederik",
+          "tocIncl": true,
+          "tocText": "Frederik De Laender",
+          "ssClass": "person",
+          "pdfPage": "42"
+        }
+      ]
+    },
+    {
+      "srcPath": "faalweetjes/faalweetjes2.md",
+      "urlPath": "/2/faalweetjes/2",
+      "pdfPage": "43"
+    },
+    {
+      "srcPath": "zonder-resultaat.md",
+      "urlPath": "/2/zonder-resultaat",
+      "tocIncl": true,
+      "tocText": "Onderzoek zonder resultaat",
+      "pdfPage": "44"
+    },
+    {
+      "template": "section",
+      "urlPath": "/2/dagboek",
+      "srcPath": "dagboek/intro.md",
+      "tocIncl": true,
+      "tocText": "Dagboek: Liesbet Geris",
+      "pdfPage": "46",
+      "toc": [
+        {
+          "srcPath": "dagboek/Liesbet.md",
+          "urlPath": "/2/dagboek/Liesbet",
+          "pdfPage": "47"
+        }
+      ]
+    },
+    {
+      "srcPath": "column.md",
+      "urlPath": "/2/column",
+      "tocIncl": true,
+      "tocText": "Bericht uit de kelder",
+      "pdfPage": "50"
+    },
+    {
+      "template": "colophon",
+      "srcPath": "colofon.md",
+      "urlPath": "/2/colofon",
+      "pdfPage": "2"
+    }
+  ]
+}
