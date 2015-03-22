@@ -181,7 +181,7 @@
       "pdfPage": "40",
       "toc": [
         {
-          "srcPath": "dwaalsporen/Marijn.md", // Those `)` caused weird data-inject…
+          "srcPath": "dwaalsporen/Marijn.md",
           "urlPath": "/2/dwaalsporen/Marijn",
           "tocIncl": true,
           "tocText": "Marijn Vandenberghe",
