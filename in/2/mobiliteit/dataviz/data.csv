@@ -1,0 +1,319 @@
+000,----,--,--,--,city                 ,latitude   ,longitude   ,studieverblijf,standplaats,zonder verankering,kort verblijf
+001,---¶,EU,--,--,EUROPA               ,-          ,-           ,3,16,20,58
+002,-¶¶¶,EU,BE,--,BRUSSEL              ,50.85      ,4.35        ,-,-,-,-
+003,--¶¶,EU,GB,--,VERENIGD KONINKRIJK  ,-          ,-           ,-,8,10,9
+004,-¶¶¶,EU,GB,--,LONDON               ,51.507351  ,-0.127758   ,-,1,2,4
+005,----,EU,GB,--,London               ,-          ,-           ,-,-,Koen Jonckheere,-
+006,----,EU,GB,--,London               ,-          ,-           ,-,-,Tine Huyse,-
+007,----,EU,GB,--,London               ,-          ,-           ,-,Tine Huyse,-,-
+008,----,EU,GB,--,London               ,-          ,-           ,-,-,-,Dorien Van de Mieroop
+009,----,EU,GB,--,London               ,-          ,-           ,-,-,-,Niel Hens
+010,----,EU,GB,--,London               ,-          ,-           ,-,-,-,Samuel Mareel
+011,----,EU,GB,--,London               ,-          ,-           ,-,-,-,Violet Soen
+012,-¶¶¶,EU,GB,--,OXFORD               ,51.752021  ,-1.257726   ,-,4,-,-
+013,----,EU,GB,--,Oxford               ,-          ,-           ,-,Koen De Temmerman,-,-
+014,----,EU,GB,--,Oxford               ,-          ,-           ,-,Liesbet Geris,-,-
+015,----,EU,GB,--,Oxford               ,-          ,-           ,-,Lieve Van Hoof,-,-
+016,----,EU,GB,--,Oxford               ,-          ,-           ,-,Peter Van Nuffelen,-,-
+017,-¶¶¶,EU,GB,--,CAMBRIDGE            ,52.205337  ,0.121817    ,-,-,2,1
+018,----,EU,GB,--,Cambridge            ,-          ,-           ,-,-,Jan Aerts,-
+019,----,EU,GB,--,Cambridge            ,-          ,-           ,-,-,Lennart Martens,-
+020,----,EU,GB,--,Cambridge            ,-          ,-           ,-,-,-,Lennart Martens
+021,-¶¶¶,EU,GB,--,EXETER               ,50.718412  ,-3.533899   ,-,-,2,-
+022,----,EU,GB,--,Exeter               ,-          ,-           ,-,-,Lieve Van Hoof,-
+023,----,EU,GB,--,Exeter               ,-          ,-           ,-,-,Peter Van Nuffelen,-
+024,-¶¶¶,EU,GB,--,NOTTINGHAM           ,52.954783  ,-1.158109   ,-,-,1,1
+025,----,EU,GB,--,Nottingham           ,-          ,-           ,-,-,Wim Thielemans,-
+026,----,EU,GB,--,Nottingham           ,-          ,-           ,-,-,-,Giovanni Samaey
+027,-¶¶¶,EU,GB,--,BRISTOL              ,51.454513  ,-2.58791    ,-,1,-,-
+028,----,EU,GB,--,Bristol              ,-          ,-           ,-,Lieve Van Hoof,-,-
+029,-¶¶¶,EU,GB,--,COLCHESTER           ,51.895927  ,0.891874    ,-,-,1,-
+030,----,EU,GB,--,Colchester           ,-          ,-           ,-,-,Noël Salazar,-
+031,-¶¶¶,EU,GB,--,EDINBURGH            ,55.953252  ,-3.188267   ,-,-,1,-
+032,----,EU,GB,--,Edinburgh            ,-          ,-           ,-,-,Jan Aerts,-
+033,-¶¶¶,EU,GB,--,LEEDS                ,53.800755  ,-1.549077   ,-,-,1,-
+034,----,EU,GB,--,Leeds                ,-          ,-           ,-,-,Noël Salazar,-
+035,-¶¶¶,EU,GB,--,DURHAM               ,54.77525   ,-1.584852   ,-,-,-,1
+036,----,EU,GB,--,Durham               ,-          ,-           ,-,-,-,Jelle Haemers
+037,-¶¶¶,EU,GB,--,GUILDFORD            ,51.23622   ,-0.570409   ,-,-,-,1
+038,----,EU,GB,--,Guildford            ,-          ,-           ,-,-,-,Ann Dooms
+039,-¶¶¶,EU,GB,--,SWANSEA              ,51.62144   ,-3.943646   ,-,1,-,-
+040,----,EU,GB,--,Swansea              ,-          ,-           ,-,Koen De Temmerman,-,-
+041,-¶¶¶,EU,GB,--,WARWICK              ,52.282316  ,-1.584927   ,-,1,-,-
+042,----,EU,GB,--,Warwick              ,-          ,-           ,-,Dorien Van de Mieroop,-,-
+043,-¶¶¶,EU,GB,--,YORK                 ,53.959965  ,-1.087298   ,-,-,-,1
+044,----,EU,GB,--,York                 ,-          ,-           ,-,-,-,Jelle Haemers
+045,-¶¶¶,EU,GB,--,PRESTON              ,53.759     ,-2.699      ,-,1,-,-
+046,----,EU,GB,--,Preston              ,-          ,-           ,-,Goedele De Clerck,-,-
+047,--¶¶,EU,DE,--,DUITSLAND            ,-          ,-           ,1,2,2,7
+048,-¶¶¶,EU,DE,--,BONN                 ,50.73743   ,7.098207    ,-,1,1,1
+049,----,EU,DE,--,Bonn                 ,-          ,-           ,-,-,Lieve Van Hoof,-
+050,----,EU,DE,--,Bonn                 ,-          ,-           ,-,Peter Van Nuffelen,-,-
+051,----,EU,DE,--,Bonn                 ,-          ,-           ,-,-,-,Tina Kyndt
+052,-¶¶¶,EU,DE,--,HEIDELBERG           ,49.398752  ,8.672434    ,-,1,-,2
+053,----,EU,DE,--,Heidelberg           ,-          ,-           ,-,Katrien Remaut,-,-
+054,----,EU,DE,--,Heidelberg           ,-          ,-           ,-,-,-,Katrien Remaut
+055,----,EU,DE,--,Heidelberg           ,-          ,-           ,-,-,-,Peter Van Nuffelen
+056,-¶¶¶,EU,DE,--,GÖTTINGEN            ,51.54128   ,9.915804    ,-,1,1,-
+057,----,EU,DE,--,Göttingen            ,-          ,-           ,-,-,Lieve Van Hoof,-
+058,----,EU,DE,--,Göttingen            ,-          ,-           ,-,Peter Van Nuffelen,-,-
+059,-¶¶¶,EU,DE,--,HALLE AN DER SAALE   ,51.49698   ,11.968803   ,-,-,-,2
+060,----,EU,DE,--,Halle an der Saale   ,-          ,-           ,-,-,-,Liesbet Geris
+061,----,EU,DE,--,Halle an der Saale   ,-          ,-           ,-,-,-,Noël Salazar
+062,-¶¶¶,EU,DE,--,BRAUNSCHWEIG         ,52.268874  ,10.52677    ,-,-,-,1
+063,----,EU,DE,--,Braunschweig         ,-          ,-           ,-,-,-,Koen Jonckheere
+064,-¶¶¶,EU,DE,--,KÖLN                 ,50.532     ,6.636434    ,1,-,-,-
+065,----,EU,DE,--,Köln                 ,-          ,-           ,Emiliano Acosta,-,-,-
+066,-¶¶¶,EU,DE,--,LEIPZIG              ,51.339696  ,12.373075   ,-,-,-,1
+067,----,EU,DE,--,Leipzig              ,-          ,-           ,-,-,-,Giovanni Samaey
+068,--¶¶,EU,FR,--,FRANKRIJK            ,-          ,-           ,-,2,2,9
+069,-¶¶¶,EU,FR,--,PARIS                ,48.856614  ,2.352222    ,-,1,1,4
+070,----,EU,FR,--,Paris                ,-          ,-           ,-,-,Noël Salazar,-
+071,----,EU,FR,--,Paris                ,-          ,-           ,-,Giovanni Samaey,-,-
+072,----,EU,FR,--,Paris                ,-          ,-           ,-,Violet Soen,-,-
+073,----,EU,FR,--,Paris                ,-          ,-           ,-,-,-,Johan Meyers
+074,----,EU,FR,--,Paris                ,-          ,-           ,-,-,-,Koen Brosens
+075,----,EU,FR,--,Paris                ,-          ,-           ,-,-,-,Lieve Van Hoof
+076,----,EU,FR,--,Paris                ,-          ,-           ,-,-,-,Peter Van Nuffelen
+077,-¶¶¶,EU,FR,--,LILLE                ,50.62925   ,3.057256    ,-,1,-,2
+078,----,EU,FR,--,Lille                ,-          ,-           ,-,Giovanni Samaey,-,-
+079,----,EU,FR,--,Lille                ,-          ,-           ,-,-,-,Jelle Haemers
+080,----,EU,FR,--,Lille                ,-          ,-           ,-,-,-,Veerle De Herdt
+081,-¶¶¶,EU,FR,--,ANGERS               ,47.473612  ,-0.554167   ,-,-,-,1
+082,----,EU,FR,--,Angers               ,-          ,-           ,-,-,-,Peter Van Nuffelen
+083,-¶¶¶,EU,FR,--,GRENOBLE             ,45.188529  ,5.724524    ,-,-,1,-
+084,----,EU,FR,--,Grenoble             ,-          ,-           ,-,-,Wim Thielemans,-
+085,-¶¶¶,EU,FR,--,ROUEN                ,49.443232  ,1.099971    ,-,-,-,1
+086,----,EU,FR,--,Rouen                ,-          ,-           ,-,-,-,Wim Thielemans
+087,-¶¶¶,EU,FR,--,TOUR DU VALAT        ,43.5082    ,4.66686     ,-,-,-,1
+088,----,EU,FR,--,Tour du Valat        ,-          ,-           ,-,-,-,Tine Huyse
+089,--¶¶,EU,NL,--,NEDERLAND            ,-          ,-           ,2,1,3,4
+090,-¶¶¶,EU,NL,--,WAGENINGEN           ,51.969187  ,5.665395    ,1,-,1,-
+091,----,EU,NL,--,Wageningen           ,-          ,-           ,Jan Aerts,-,-,-
+092,----,EU,NL,--,Wageningen           ,-          ,-           ,-,-,Jan Aerts,-
+093,-¶¶¶,EU,NL,--,TWENTE               ,52.216667  ,6.9         ,-,-,-,2
+094,----,EU,NL,--,Twente               ,-          ,-           ,-,-,-,Johan Meyers
+095,----,EU,NL,--,Twente               ,-          ,-           ,-,-,-,Johan Meyers
+096,-¶¶¶,EU,NL,--,AMSTERDAM            ,52.370216  ,4.895168    ,1,-,-,-
+097,----,EU,NL,--,Amsterdam            ,-          ,-           ,Koen Jonckheere,-,1,-
+098,----,EU,NL,--,Amsterdam            ,-          ,-           ,-,-,Koen Jonckheere,-
+099,-¶¶¶,EU,NL,--,GRONINGEN            ,53.219384  ,6.566502    ,-,1,-,-
+100,----,EU,NL,--,Groningen            ,-          ,-           ,-,Samuel Mareel,-,-
+101,-¶¶¶,EU,NL,--,LEIDEN               ,52.160114  ,4.49701     ,-,-,1,-
+102,----,EU,NL,--,Leiden               ,-          ,-           ,-,-,Peter Van Aelst,-
+103,-¶¶¶,EU,NL,--,UTRECHT              ,52.090737  ,5.12142     ,-,-,1,-
+104,----,EU,NL,--,Utrecht              ,-          ,-           ,-,-,Pieter Van der Veken,-
+105,-¶¶¶,EU,NL,--,DELFT                ,52.011577  ,4.357068    ,-,-,-,1
+106,----,EU,NL,--,Delft                ,-          ,-           ,-,-,-,Liesbet Geris
+107,-¶¶¶,EU,NL,--,VLAARDINGEN          ,51.912067  ,4.349437    ,-,-,-,1
+108,----,EU,NL,--,Vlaardingen          ,-          ,-           ,-,-,-,Wim Thielemans
+109,--¶¶,EU,IT,--,ITALIË               ,-          ,-           ,-,2,2,6
+110,-¶¶¶,EU,IT,--,ROMA                 ,41.902784  ,12.496366   ,-,-,-,3
+111,----,EU,IT,--,Roma                 ,-          ,-           ,-,-,-,Jelle Haemers
+112,----,EU,IT,--,Roma                 ,-          ,-           ,-,-,-,Pieter Martens
+113,----,EU,IT,--,Roma                 ,-          ,-           ,-,-,-,Violet Soen
+114,-¶¶¶,EU,IT,--,BOLOGNA              ,44.494887  ,11.342616   ,-,1,-,1
+115,----,EU,IT,--,Bologna              ,-          ,-           ,-,Koen De Temmerman,-,-
+116,----,EU,IT,--,Bologna              ,-          ,-           ,-,-,-,Violet Soen
+117,-¶¶¶,EU,IT,--,FIRENZE              ,43.771033  ,11.248001   ,-,-,1,1
+118,----,EU,IT,--,Firenze              ,-          ,-           ,-,-,Violet Soen,-
+119,----,EU,IT,--,Firenze              ,-          ,-           ,-,-,-,Koen Jonckheere
+120,-¶¶¶,EU,IT,--,GENOVA               ,44.40565   ,8.946256    ,-,1,-,-
+121,----,EU,IT,--,Genova               ,-          ,-           ,-,Bram Vanderborght,-,-
+122,-¶¶¶,EU,IT,--,BERGAMO              ,45.698264  ,9.67727     ,-,-,1,-
+123,----,EU,IT,--,Bergamo              ,-          ,-           ,-,-,Noël Salazar,-
+124,-¶¶¶,EU,IT,--,TORINO               ,45.070312  ,7.686856    ,-,-,-,1
+125,----,EU,IT,--,Torino               ,-          ,-           ,-,-,-,Pieter Martens
+126,--¶¶,EU,ES,--,SPANJE               ,-          ,-           ,-,1,-,7
+127,-¶¶¶,EU,ES,--,SANTANDER            ,43.462306  ,-3.80998    ,-,-,-,1
+128,----,EU,ES,--,Santander            ,-          ,-           ,-,-,-,Jelle Haemers
+129,-¶¶¶,EU,ES,--,VALLADOLID           ,41.652251  ,-4.724532   ,-,1,-,1
+130,----,EU,ES,--,Valladolid           ,-          ,-           ,-,Violet Soen,-,-
+131,----,EU,ES,--,Valladolid           ,-          ,-           ,-,-,-,Violet Soen
+132,-¶¶¶,EU,ES,--,BARCELONA            ,41.385064  ,2.173403    ,-,-,-,1
+133,----,EU,ES,--,Barcelona            ,-          ,-           ,-,-,-,Violet Soen
+134,-¶¶¶,EU,ES,--,CARTAGENA            ,37.625683  ,-0.996584   ,-,-,-,1
+135,----,EU,ES,--,Cartagena            ,-          ,-           ,-,-,-,Ann Dooms
+136,-¶¶¶,EU,ES,--,MADRID               ,40.416775  ,-3.70379    ,-,-,-,1
+137,----,EU,ES,--,Madrid               ,-          ,-           ,-,-,-,Violet Soen
+138,-¶¶¶,EU,ES,--,MURCIA               ,37.99224   ,-1.130654   ,-,-,-,1
+139,----,EU,ES,--,Murcia               ,-          ,-           ,-,-,-,Ann Dooms
+140,-¶¶¶,EU,ES,--,TOLEDO               ,39.856667  ,-4.024444   ,-,-,-,1
+141,----,EU,ES,--,Toledo               ,-          ,-           ,-,-,-,Violet Soen
+142,--¶¶,EU,CH,--,ZWITSERLAND          ,-          ,-           ,-,-,-,3
+143,-¶¶¶,EU,CH,--,GENÈVE               ,46.198392  ,6.142296    ,-,-,-,3
+144,----,EU,CH,--,Genève               ,-          ,-           ,-,-,-,Jorgen D’Hondt
+145,----,EU,CH,--,Genève               ,-          ,-           ,-,-,-,Lieve Van Hoof
+146,----,EU,CH,--,Genève               ,-          ,-           ,-,-,-,Peter Van Nuffelen
+147,--¶¶,EU,RU,--,RUSLAND              ,-          ,-           ,-,-,1,1
+148,-¶¶¶,EU,RU,--,MOSKVA               ,55.755826  ,37.6173     ,-,-,1,1
+149,----,EU,RU,--,Moskva               ,-          ,-           ,-,-,Ben Dhooge,-
+150,----,EU,RU,--,Moskva               ,-          ,-           ,-,-,-,Ben Dhooge
+151,--¶¶,EU,AT,--,OOSTENRIJK           ,-          ,-           ,-,-,-,2
+152,-¶¶¶,EU,AT,--,WIEN                 ,48.208174  ,16.373819   ,-,-,-,2
+153,----,EU,AT,--,Wien                 ,-          ,-           ,-,-,-,Jelle Haemers
+154,----,EU,AT,--,Wien                 ,-          ,-           ,-,-,-,Jelle Haemers
+155,--¶¶,EU,EE,--,ESTLAND              ,-          ,-           ,-,-,-,1
+156,-¶¶¶,EU,EE,--,TALINN               ,59.45      ,24.733333   ,-,-,-,1
+157,----,EU,EE,--,Talinn               ,-          ,-           ,-,-,-,Noël Salazar
+158,--¶¶,EU,IE,--,IERLAND              ,-          ,-           ,-,-,-,1
+159,-¶¶¶,EU,IE,--,DUBLIN               ,53.349805  ,-6.26031    ,-,-,-,1
+160,----,EU,IE,--,Dublin               ,-          ,-           ,-,-,-,Wim Thielemans
+161,--¶¶,EU,NO,--,NOORWEGEN            ,-          ,-           ,-,-,-,1
+162,-¶¶¶,EU,NO,--,TRONDHEIM            ,63.430515  ,10.395053   ,-,-,-,1
+163,----,EU,NO,--,Trondheim            ,-          ,-           ,-,-,-,Tine Huyse
+164,--¶¶,EU,PL,--,POLEN                ,-          ,-           ,-,-,-,1
+165,-¶¶¶,EU,PL,--,WARSZAWA             ,52.229676  ,21.012229   ,-,-,-,1
+166,----,EU,PL,--,Warszawa             ,-          ,-           ,-,-,-,Ann Dooms
+167,--¶¶,EU,RO,--,ROEMENIË             ,-          ,-           ,-,-,-,1
+168,-¶¶¶,EU,RO,--,CLUJ-NAPOCA          ,46.766667  ,23.583333   ,-,-,-,1
+169,----,EU,RO,--,Cluj-Napoca          ,-          ,-           ,-,-,-,Bram Vanderborght
+170,--¶¶,EU,SE,--,ZWEDEN               ,-          ,-           ,-,-,-,1
+171,-¶¶¶,EU,SE,--,ÖREBRO               ,59.273889  ,15.2075     ,-,-,-,1
+172,----,EU,SE,--,Örebro               ,-          ,-           ,-,-,-,Goedele De Clerck
+173,---¶,NA,--,--,NOORD-AMERIKA        ,-          ,-           ,2,6,7,26
+174,--¶¶,NA,US,CA,CALIFORNIA           ,-          ,-           ,-,3,1,9
+175,-¶¶¶,NA,US,CA,BERKELEY CA          ,37.871593  ,-122.272747 ,-,2,-,5
+176,----,NA,US,CA,Berkeley CA          ,-          ,-           ,-,Ben Dhooge,-,-
+177,----,NA,US,CA,Berkeley CA          ,-          ,-           ,-,Samuel Mareel,-,-
+178,----,NA,US,CA,Berkeley CA          ,-          ,-           ,-,-,-,Koen Brosens
+179,----,NA,US,CA,Berkeley CA          ,-          ,-           ,-,-,-,Koen Jonckheere
+180,----,NA,US,CA,Berkeley CA          ,-          ,-           ,-,-,-,Marian Verhelst
+181,----,NA,US,CA,Berkeley CA          ,-          ,-           ,-,-,-,Noël Salazar
+182,----,NA,US,CA,Berkeley CA          ,-          ,-           ,-,-,-,Samuel Mareel
+183,-¶¶¶,NA,US,CA,LOS ANGELES CA       ,34.052234  ,-118.243685 ,-,1,-,2
+184,----,NA,US,CA,Los Angeles CA       ,-          ,-           ,-,Ben Dhooge,-,-
+185,----,NA,US,CA,Los Angeles CA       ,-          ,-           ,-,-,-,Koen Brosens
+186,----,NA,US,CA,Los Angeles CA       ,-          ,-           ,-,-,-,Koen Jonckheere
+187,-¶¶¶,NA,US,CA,STANFORD CA          ,37.424106  ,-122.166076 ,-,-,1,-
+188,----,NA,US,CA,Stanford CA          ,-          ,-           ,-,-,Koen De Temmerman,-
+189,-¶¶¶,NA,US,CA,SAN FRANCISCO CA     ,37.77493   ,-122.419416 ,-,-,-,1
+190,----,NA,US,CA,San Francisco CA     ,-          ,-           ,-,-,-,Koen Jonckheere
+191,-¶¶¶,NA,US,CA,SAN DIEGO CA         ,32.715738  ,-117.161084 ,-,-,-,1
+192,----,NA,US,CA,San Diego CA         ,-          ,-           ,-,-,-,Korneel Rabaey
+193,--¶¶,NA,US,PA,PENNSYLVANIA         ,-          ,-           ,1,-,1,2
+194,-¶¶¶,NA,US,PA,PHILADELPHIA PA      ,39.952584  ,-75.165222  ,1,-,1,1
+195,----,NA,US,PA,Philadelphia PA      ,-          ,-           ,Noël Salazar,-,-,-
+196,----,NA,US,PA,Philadelphia PA      ,-          ,-           ,-,-,Noël Salazar,-
+197,----,NA,US,PA,Philadelphia PA      ,-          ,-           ,-,-,-,Koen Brosens
+198,-¶¶¶,NA,US,PA,LEBANON PA           ,40.340925  ,-76.41135   ,-,-,-,1
+199,----,NA,US,PA,Lebanon PA           ,-          ,-           ,-,-,-,Veerle De Herdt
+200,--¶¶,NA,US,NC,NORTH CAROLINA       ,-          ,-           ,-,-,1,2
+201,-¶¶¶,NA,US,NC,DURHAM NC            ,35.994033  ,-78.898619  ,-,-,1,1
+202,----,NA,US,NC,Durham NC            ,-          ,-           ,-,-,Noël Salazar,-
+203,----,NA,US,NC,Durham NC            ,-          ,-           ,-,-,-,Ann Dooms
+204,-¶¶¶,NA,US,NC,CHAPEL HILL NC       ,35.9132    ,-79.055845  ,-,-,-,1
+205,----,NA,US,NC,Chapel Hill NC       ,-          ,-           ,-,-,-,Lieve Van Hoof
+206,--¶¶,NA,US,NJ,NEW JERSEY           ,-          ,-           ,-,-,1,2
+207,-¶¶¶,NA,US,NJ,PRINCETON NJ         ,40.357298  ,-74.667223  ,-,-,1,2
+208,----,NA,US,NJ,Princeton NJ         ,-          ,-           ,-,-,Koen De Temmerman,-
+209,----,NA,US,NJ,Princeton NJ         ,-          ,-           ,-,-,-,Ann Dooms
+210,----,NA,US,NJ,Princeton NJ         ,-          ,-           ,-,-,-,Giovanni Samaey
+211,--¶¶,NA,US,NY,NEW YORK             ,-          ,-           ,-,-,-,2
+212,-¶¶¶,NA,US,NY,NEW YORK NY          ,40.712784  ,-74.005941  ,-,-,-,1
+213,----,NA,US,NY,New York NY          ,-          ,-           ,-,-,-,Violet Soen
+214,-¶¶¶,NA,US,NY,ITHACA NY            ,42.443961  ,-76.501881  ,-,-,-,1
+215,----,NA,US,NY,Ithaca NY            ,-          ,-           ,-,-,-,Korneel Rabaey
+216,--¶¶,NA,US,IL,ILLINOIS             ,-          ,-           ,-,-,-,2
+217,-¶¶¶,NA,US,IL,CHICAGO IL           ,41.878114  ,-87.629798  ,-,-,-,1
+218,----,NA,US,IL,Chicago IL           ,-          ,-           ,-,-,-,Koen Brosens
+219,-¶¶¶,NA,US,IL,URBANA-CHAMPAIGN IL  ,40.110588  ,-88.20727   ,-,-,-,1
+220,----,NA,US,IL,Urbana-Champaign IL  ,-          ,-           ,-,-,-,Ann Dooms
+221,--¶¶,NA,US,OH,OHIO                 ,-          ,-           ,-,-,-,2
+222,-¶¶¶,NA,US,OH,CINCINNATI OH        ,39.103118  ,-84.51202   ,-,-,-,2
+223,----,NA,US,OH,Cincinnati OH        ,-          ,-           ,-,-,-,Lieve Van Hoof
+224,----,NA,US,OH,Cincinnati OH        ,-          ,-           ,-,-,-,Peter Van Nuffelen
+225,--¶¶,NA,US,WA,WASHINGTON           ,-          ,-           ,-,1,-,1
+226,-¶¶¶,NA,US,WA,SEATTLE WA           ,47.60621   ,-122.332071 ,-,1,-,1
+227,----,NA,US,WA,Seattle WA           ,-          ,-           ,-,Peter Van Aelst,-,-
+228,----,NA,US,WA,Seattle WA           ,-          ,-           ,-,-,-,Niel Hens
+229,--¶¶,NA,US,MN,MINNESOTA            ,-          ,-           ,-,-,1,1
+230,-¶¶¶,NA,US,MN,MINNEAPOLIS MN       ,44.977753  ,-93.265011  ,-,-,1,1
+231,----,NA,US,MN,Minneapolis MN       ,-          ,-           ,-,-,Simon De Meyer,-
+232,----,NA,US,MN,Minneapolis MN       ,-          ,-           ,-,-,-,Simon De Meyer
+233,--¶¶,NA,US,DE,DELAWARE             ,-          ,-           ,1,-,1,-
+234,-¶¶¶,NA,US,DE,NEWARK DE            ,39.683723  ,-75.749657  ,1,-,1,-
+235,----,NA,US,DE,Newark DE            ,-          ,-           ,Wim Thielemans,-,-,-
+236,----,NA,US,DE,Newark DE            ,-          ,-           ,-,-,Wim Thielemans,-
+237,--¶¶,NA,US,MD,MARYLAND             ,-          ,-           ,-,-,-,1
+238,-¶¶¶,NA,US,MD,BALTIMORE MD         ,39.290385  ,-76.612189  ,-,-,-,1
+239,----,NA,US,MD,Baltimore MD         ,-          ,-           ,-,-,-,Johan Meyers
+240,--¶¶,NA,US,MO,MISSOURI             ,-          ,-           ,-,-,-,1
+241,-¶¶¶,NA,US,MO,ST. LOUIS MO         ,38.627003  ,-90.199404  ,-,-,-,1
+242,----,NA,US,MO,St. Louis MO         ,-          ,-           ,-,-,-,Jan Aerts
+243,--¶¶,NA,US,MA,MASSACHUSETTS        ,-          ,-           ,-,1,-,-
+244,-¶¶¶,NA,US,MA,CAMBRIDGE MA         ,42.373616  ,-71.109733  ,-,1,-,-
+245,----,NA,US,MA,Cambridge MA         ,-          ,-           ,-,Hans Op de Beeck,-,-
+246,--¶¶,NA,US,OR,OREGON               ,-          ,-           ,-,-,1,-
+247,-¶¶¶,NA,US,OR,PORTLAND OR          ,45.523062  ,-122.676482 ,-,-,1,-
+248,----,NA,US,OR,Portland OR          ,-          ,-           ,-,-,Marian Verhelst,-
+249,--¶¶,NA,US,DC,DISTRICT OF COLUMBIA ,-          ,-           ,-,1,-,-
+250,-¶¶¶,NA,US,DC,WASHINGTON DC        ,38.895111  ,-77.036667  ,-,1,-,-
+251,----,NA,US,DC,Washington DC        ,-          ,-           ,-,Goedele De Clerck,-,-
+252,--¶¶,NA,CA,--,CANADA               ,-          ,-           ,-,-,-,1
+253,-¶¶¶,NA,CA,--,OTTAWA               ,45.420833  ,-75.69      ,-,-,-,1
+254,----,NA,CA,--,Ottawa               ,-          ,-           ,-,-,-,Stefanie Dedeurwaerdere
+255,---¶,ZA,--,--,ZUID-AMERIKA         ,-          ,-           ,-,1,-,7
+256,--¶¶,ZA,BR,--,BRAZILIË             ,-          ,-           ,-,1,-,4
+257,-¶¶¶,ZA,BR,--,SÃO PAULO            ,-23.55052  ,-46.633309  ,-,1,-,1
+258,----,ZA,BR,--,São Paulo            ,-          ,-           ,-,Mathieu Vinken,-,-
+259,----,ZA,BR,--,São Paulo            ,-          ,-           ,-,-,-,Ann Dooms
+260,-¶¶¶,ZA,BR,--,RIO DE JANEIRO       ,-22.906847 ,-43.172896  ,-,-,-,2
+261,----,ZA,BR,--,Rio de Janeiro       ,-          ,-           ,-,-,-,Ann Dooms
+262,----,ZA,BR,--,Rio de Janeiro       ,-          ,-           ,-,-,-,Tine Huyse
+263,-¶¶¶,ZA,BR,--,LAVRAS               ,-21.245    ,-45         ,-,-,-,1
+264,----,ZA,BR,--,Lavras               ,-          ,-           ,-,-,-,Ann Dooms
+265,--¶¶,ZA,CL,--,CHILI                ,-          ,-           ,-,-,-,1
+266,-¶¶¶,ZA,CL,--,SANTIAGO DE CHILE    ,-33.45     ,-70.666667  ,-,-,-,1
+267,----,ZA,CL,--,Santiago de Chile    ,-          ,-           ,-,-,-,Noël Salazar
+268,--¶¶,ZA,CU,--,CUBA                 ,-          ,-           ,-,-,-,1
+269,-¶¶¶,ZA,CU,--,HAVANA               ,23.159167  ,-82.271056  ,-,-,-,1
+270,----,ZA,CU,--,Havana               ,-          ,-           ,-,-,-,Niel Hens
+271,--¶¶,ZA,EC,--,ECUADOR              ,-          ,-           ,-,-,-,1
+272,-¶¶¶,ZA,EC,--,LOJA                 ,-3.983333  ,-79.2       ,-,-,-,1
+273,----,ZA,EC,--,Loja                 ,-          ,-           ,-,-,-,Tina Kyndt
+274,---¶,AF,--,--,AFRIKA               ,-          ,-           ,-,1,-,5
+275,--¶¶,AF,CD,--,D.R. CONGO           ,-          ,-           ,-,-,-,1
+276,-¶¶¶,AF,CD,--,KISANGANI            ,0.516667   ,25.2        ,-,-,-,1
+277,----,AF,CD,--,Kisangani            ,-          ,-           ,-,-,-,Tine Huyse
+278,--¶¶,AF,CM,--,KAMEROEN             ,-          ,-           ,-,-,-,1
+279,-¶¶¶,AF,CM,--,BUÉA                 ,4.166667   ,9.233333    ,-,-,-,1
+280,----,AF,CM,--,Buéa                 ,-          ,-           ,-,-,-,Goedele De Clerck
+281,--¶¶,AF,SN,--,SENEGAL              ,-          ,-           ,-,-,-,1
+282,-¶¶¶,AF,SN,--,RICHARD TOLL         ,16.466667  ,-15.683333  ,-,-,-,1
+283,----,AF,SN,--,Richard Toll         ,-          ,-           ,-,-,-,Tine Huyse
+284,--¶¶,AF,TZ,--,TANZANIË             ,-          ,-           ,-,-,-,1
+285,-¶¶¶,AF,TZ,--,DAR ES SALAAM        ,-6.8       ,39.283333   ,-,-,-,1
+286,----,AF,TZ,--,Dar es Salaam        ,-          ,-           ,-,-,-,Noël Salazar
+287,--¶¶,AF,UG,--,UGANDA               ,-          ,-           ,-,-,-,1
+288,-¶¶¶,AF,UG,--,KAMPALA              ,0.313611   ,32.581111   ,-,-,-,1
+289,----,AF,UG,--,Kampala              ,-          ,-           ,-,-,-,Goedele De Clerck
+290,--¶¶,AF,ZA,--,ZUID-AFRIKA          ,-          ,-           ,-,1,-,-
+291,-¶¶¶,AF,ZA,--,BLOEMFONTEIN         ,-29.116667 ,26.216667   ,-,1,-,-
+292,----,AF,ZA,--,Bloemfontein         ,-          ,-           ,-,Simon De Meyer,-,-
+293,---¶,AZ,--,--,AZIË                 ,-          ,-           ,-,1,-,5
+294,--¶¶,AZ,IN,--,INDIË                ,-          ,-           ,-,-,-,2
+295,-¶¶¶,AZ,IN,--,WESTERN GHATS        ,34.048928  ,-111.093731 ,-,-,-,2
+296,----,AZ,IN,--,Western Ghats        ,-          ,-           ,-,-,-,Koen De Temmerman
+297,----,AZ,IN,--,Western Ghats        ,-          ,-           ,-,-,-,Tine Huyse
+298,--¶¶,AZ,JP,--,JAPAN                ,-          ,-           ,-,1,-,1
+299,-¶¶¶,AZ,JP,--,TOKYO                ,35.689488  ,139.691706  ,-,1,-,-
+300,----,AZ,JP,--,Tokyo                ,-          ,-           ,-,Michaël De Volder,-,-
+301,-¶¶¶,AZ,JP,--,TSUKUBA              ,36.083486  ,140.076642  ,-,-,-,1
+302,----,AZ,JP,--,Tsukuba              ,-          ,-           ,-,-,-,Bram Vanderborght
+303,--¶¶,AZ,ID,--,INDONESIË            ,-          ,-           ,-,-,-,1
+304,-¶¶¶,AZ,ID,--,JAKARTA              ,-6.208763  ,106.845599  ,-,-,-,1
+305,----,AZ,ID,--,Jakarta              ,-          ,-           ,-,-,-,Noël Salazar
+306,--¶¶,AZ,SG,--,SINGAPORE            ,-          ,-           ,-,-,-,1
+307,-¶¶¶,AZ,SG,--,SINGAPORE            ,1.280095   ,103.850949  ,-,-,-,1
+308,----,AZ,SG,--,Singapore            ,-          ,-           ,-,-,-,Noël Salazar
+309,---¶,OC,--,--,AUSTRALIË            ,-          ,-           ,-,-,2,3
+310,--¶¶,OC,AU,--,AUSTRALIË            ,-          ,-           ,-,-,2,3
+311,-¶¶¶,OC,AU,--,BRISBANE             ,-27.471011 ,153.023449  ,-,-,1,1
+312,----,AZ,AU,--,Brisbane             ,-          ,-           ,-,-,Korneel Rabaey,-
+313,----,AZ,AU,--,Brisbane             ,-          ,-           ,-,-,-,Korneel Rabaey
+314,-¶¶¶,OC,AU,--,MELBOURNE            ,-37.814107 ,144.96328   ,-,-,1,1
+315,----,AZ,AU,--,Melbourne            ,-          ,-           ,-,-,Stefanie Dedeurwaerdere,-
+316,----,AZ,AU,--,Melbourne            ,-          ,-           ,-,-,-,Niel Hens
+317,-¶¶¶,OC,AU,--,SIDNEY               ,-33.867487 ,151.20699   ,-,-,-,1
+318,----,AZ,AU,--,Sidney               ,-          ,-           ,-,-,-,Niel Hens
